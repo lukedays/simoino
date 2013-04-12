@@ -1,4 +1,4 @@
-simoino
+Simoino
 =======
 
-A Simon game using Arduino
+A Simon game using Arduino.
